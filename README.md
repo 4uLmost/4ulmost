@@ -9,3 +9,6 @@
 
 [![Dhiyaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=4uLmost&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
+
+### Current song
+[![Spotify](https://novatorem-pwoz4va6c-muhammad-dhiyauls-projects.vercel.app/api/spotify)](https://open.spotify.com/user/cx76tnjk85uaxpgm9pskf8mje)
