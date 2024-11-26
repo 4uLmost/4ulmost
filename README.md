@@ -6,7 +6,9 @@
 <hr>
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmd_dhiyaul) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@akhirnyaaullagi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TgMamangHaul) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmd_dhiyaul)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@akhirnyaaullagi)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TgMamangHaul) 
 <hr>
 
 ### 💻 Learning To Code:
@@ -35,5 +37,5 @@
 [![Dhiyaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=4uLmost&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
-### 🎧 Now Playing:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cx76tnjk85uaxpgm9pskf8mje&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+### 🎧 Now Playing [![TikTok](https://img.shields.io/badge/-%23000000.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/cx76tnjk85uaxpgm9pskf8mje):
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cx76tnjk85uaxpgm9pskf8mje&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=cx76tnjk85uaxpgm9pskf8mje&redirect=true)
