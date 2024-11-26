@@ -11,4 +11,4 @@
 <hr>
 
 ### Current song
-[![Spotify](https://novatorem-pwoz4va6c-muhammad-dhiyauls-projects.vercel.app/api/spotify)](https://open.spotify.com/user/cx76tnjk85uaxpgm9pskf8mje)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cx76tnjk85uaxpgm9pskf8mje&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
