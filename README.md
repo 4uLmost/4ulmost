@@ -2,7 +2,7 @@
 
 🕵🏻 Always curious about how stuff in tech works.</br>
 🧑🏻‍🎓 Student at [Telkom University](https://telkomuniversity.ac.id/), Bandung, majoring in <b>Software Engineering</b>.</br>
-💻 Currently learning Java.</br>
+🙌 I ain't into math, but I'm all about coding.
 <hr>
 
 ### 🌐 Socials:
